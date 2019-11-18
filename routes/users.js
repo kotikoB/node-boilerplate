@@ -1,0 +1,9 @@
+const router = require('express').Router();
+const verify = require('./verifytoken');
+
+router.get('/', verify, (req, res) => {
+    // Acces to the user from request is enabled by the verified token
+    res.status(200).send({ user: req.user, msg: 'These are the users' });
+});
+
+module.exports = router;
