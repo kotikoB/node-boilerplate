@@ -10,7 +10,7 @@ then go into the models folder and tweak it accordingly.
 ## Usage
 1. Clone or download
 2. Run ```npm install``` to install all dependencies
-3. Create a .env file in the root directory edit as below;
+3. Create a .env file in the root directory edit as below; <br/>
 ```DB_CONNECT = mongodb://host:port/database-name```<br/>
 ```PORT = xxxx```<br/>
 ```TOKEN_SECRET = jwt_secret_token```<br/>
