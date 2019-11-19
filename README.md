@@ -10,4 +10,5 @@ then go into the models folder and tweak it accordingly.
 ## Usage
 1. Clone or download
 2. Run ```npm install``` to install all dependencies
-3. Code away. Enjoy!
+3. Navigate to .env file in the root directory and edit mogodb connection string and 
+4. Code away. Enjoy!
