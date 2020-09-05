@@ -1,7 +1,7 @@
 # node-boilerplate
 If you are like me, then I believe u don't like spending precious amounts of time doing repetitive tasks. I created node-boilerplate 
 for those of you who are like me, to give you an easy and minimalistic
-boilerplate to kickstart your project and get you up and running as quick as possible, complete with authentication, authorization
+boilerplate to kickstart your project and get you up and running as quick as possible, complete with authentication, authorization,
 form input validation and access control.
 ## Assumptions
 This boilerplate assumes that you are using nodejs with express and mongoDB with mongoose as the database and ORM respectively.
